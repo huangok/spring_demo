@@ -34,10 +34,11 @@
 			<scope>test</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+		
 		<dependency>
-			<groupId>com.alibaba</groupId>
-			<artifactId>fastjson</artifactId>
-			<version>1.2.39</version>
+			<groupId>com.huangok</groupId>
+			<artifactId>tools</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
 

@@ -5,6 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
+@RequestMapping("/hf")
 public class LoginController {
 
 	
